@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/sakil-ahmed/sakil-ahmed/blob/main/MD%20SAKIL%20AHMED%20(1).png" height="175px"/></a>
 
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sakil Ahmed</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sakil Ahmed</h1>
 <h3 align="center"> A passionate Jr. frontend Web developer from Bangladesh.</h3>
 
 
@@ -62,4 +62,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sakil-ahmed">
 </a>
-<a href="https://github.com/sakil-ahmed?tab=followers"><img src="https://img.shields.io/github/followers/sakil-ahmed?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/sakil-ahmed?tab=followers"><img src="https://img.shields.io/github/followers/sakil-ahmed?label=Followers&style=social" alt="GitHub Badge"></a>
