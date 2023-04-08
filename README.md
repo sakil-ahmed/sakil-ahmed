@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/sakil-ahmed/sakil-ahmed/blob/main/MD%20SAKIL%20AHMED%20(1).png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sakil Ahmed</h1>
-<h3 align="center"> A passionate Jr. frontend Web developer from Bangladesh.</h3>
+<h3 align="center"> A passionate frontend Web developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
