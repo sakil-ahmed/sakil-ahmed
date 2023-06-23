@@ -1,5 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/sakil-ahmed/sakil-ahmed/blob/main/MD%20SAKIL%20AHMED%20(1).png" height="175px"/></a>
 
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sakil Ahmed</h1>
 <h3 align="center"> A passionate frontend Web developer from Bangladesh.</h3>
 
