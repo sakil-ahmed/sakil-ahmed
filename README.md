@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sakilahmed.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sakilahmed.vercel.app/)**
 
 - 📫 How to reach me **sakilahmed.dev@gmail.com**
 
