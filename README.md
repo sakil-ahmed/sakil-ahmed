@@ -2,7 +2,6 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sakil Ahmed</h1>
 <h3 align="center"> A passionate frontend Web developer from Bangladesh.</h3>
@@ -10,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[E-Commerce Site](https://minimog.netlify.app/)**
+- 🔭 I’m currently working on **[E-Commerce Site](https://taskforge.vercel.app/)**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
