@@ -51,9 +51,9 @@
     ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   
-<br>
+<be>
   
-**Back-End Development**:
+<!--**Back-End Development**:
 
     ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js%20-%23333333.svg?style=for-the-badge&logo=express&logoColor=%23404d59)
@@ -63,7 +63,7 @@
     ![GCP](https://img.shields.io/badge/GCP%20-%234d90e0.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase%20-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
     ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-<br> 
+<br> --> 
 
 - **Softwares and Tools**:
 
