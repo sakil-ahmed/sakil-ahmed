@@ -151,7 +151,10 @@
 ---
 
 <br>
-
+<div style="width: 100%;">
+  <img src="https://metrics.lecoq.io/sakil-ahmed" style="width: 100%;"/>
+</div>
+<br/>
 <div style="width: 100%;">
   <img src="https://streak-stats.demolab.com/?user=sakil-ahmed" style="width: 100%;"/>
 </div>
